@@ -5,7 +5,7 @@
 This study guide was created to help students who are going through a coding bootcamp. My motivation is for this project is to help book students and other learners develop strategies and techniques that can help them to achieve the best outcome. It contains notes on HTML, CSS< Git and JavaScript.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 N/A
 
